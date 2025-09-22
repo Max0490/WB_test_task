@@ -22,8 +22,8 @@ public class BasketPage {
         basketTitle.shouldHave(text("Корзина"));
     }
 
-    public static void checkItemInBasket(String text) {
+    public static void checkItemInBasket(String productName) {
         basketTitle.shouldBe(visible);
-        checkItemIsDisplayed(text);
+        checkItemIsDisplayed(productName);
     }
 }
