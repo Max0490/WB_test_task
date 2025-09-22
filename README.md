@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenide](https://img.shields.io/badge/Selenide-6.19.1-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-8.5-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Chrome-Latest-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 Автоматизированный тест для проверки функциональности добавления товара в корзину на сайте Wildberries с использованием Java 17, Selenide и Gradle.
