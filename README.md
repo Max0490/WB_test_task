@@ -28,8 +28,8 @@
 1. Клонировать репозиторий
 2. Открыть проект в IntelliJ IDEA
 3. Дождаться загрузки Maven-зависимостей (автоматически)
-4. Найти класс теста: `src/test/java/tests/WildberriesTest.java`
-5. Нажать правой кнопкой на метод testAddToCart() → "Run testAddToCart()"
+4. Найти класс теста: `src/test/java/ru/shoptesting/tests/AddToBasketFlowTest.java`
+5. Нажать правой кнопкой на метод addToBasketWorkflowTest() → "Run addToBasketWorkflowTest()"
 
 ## :exclamation: Важно:
 - В повседневной работе я бы вынес методы работы с тектом на странице в отдельные вспомогательные классы
