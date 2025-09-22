@@ -13,7 +13,7 @@ public class BaseTest {
         Configuration.browser = "chrome";
         Configuration.headless = false;
         Configuration.timeout = 10000;
-        Configuration.browserSize = "1366x768";
+        Configuration.browserSize = "1920x1080";
         Configuration.screenshots = true;
         Configuration.savePageSource = false;
     }
