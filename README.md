@@ -1,4 +1,4 @@
-# 🛒 Automated Wildberries Cart Test
+# 🛒 Automated Wildberries Basket Test
 
 ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk)
 ![Selenide](https://img.shields.io/badge/Selenide-6.19.1-green?style=for-the-badge&logo=selenium)
